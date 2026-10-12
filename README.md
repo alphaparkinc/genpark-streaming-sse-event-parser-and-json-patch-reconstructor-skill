@@ -54,3 +54,10 @@ chunks = ['{"tool": ', '"weather", ', '"city": "Tokyo"}']
 reconstructed = StreamingSSEParser.reconstruct_streaming_tool_call(chunks)
 print(reconstructed["parsed_json"])
 ```
+
+---
+
+## GenPark Ecosystem
+
+- **Official Website**: [https://www.genpark.ai](https://www.genpark.ai)
+- **LinkedIn Page**: [https://www.linkedin.com/company/92955550](https://www.linkedin.com/company/92955550)
