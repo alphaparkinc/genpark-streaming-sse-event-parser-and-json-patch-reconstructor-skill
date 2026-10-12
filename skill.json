@@ -1,0 +1,8 @@
+{
+  "name": "genpark-streaming-sse-event-parser-and-json-patch-reconstructor-skill",
+  "version": "1.0.0",
+  "description": "Parses streaming Server-Sent Events (SSE) deltas and reconstructs structured JSON tool arguments, thought blocks, and multi-part content streams in real time",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
